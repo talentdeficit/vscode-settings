@@ -1,0 +1,26 @@
+{ "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.autoIndent": false,
+  "editor.detectIndentation": false,
+  "editor.dragAndDrop": false,
+  "editor.find.autoFindInSelection": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "workbench.colorTheme": "Quiet Light",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.editor.enablePreview": false,
+  "rust.mode": "legacy",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.panel.defaultLocation": "right",
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "typescript", "autoFix": true },
+    { "language": "typescriptreact", "autoFix": true },
+  ],
+}
