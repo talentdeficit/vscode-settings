@@ -9,7 +9,9 @@
     80,
     120
   ],
-  "workbench.colorTheme": "Quiet Light",
+  "workbench.colorTheme": "fairyfloss",
+  "editor.fontFamily": "'Operator Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
   "window.zoomLevel": 0,
   "workbench.iconTheme": "vs-minimal",
   "workbench.editor.enablePreview": false,
