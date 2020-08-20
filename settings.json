@@ -1,20 +1,20 @@
 { "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
-  "editor.autoIndent": false,
+  "editor.autoIndent": "full",
   "editor.detectIndentation": false,
   "editor.dragAndDrop": false,
-  "editor.find.autoFindInSelection": true,
+  "editor.find.autoFindInSelection": "multiline",
   "editor.minimap.enabled": false,
   "editor.rulers": [
     80,
     120
   ],
-  "workbench.colorTheme": "fairyfloss",
   "editor.fontFamily": "'Operator Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
   "editor.fontLigatures": true,
   "window.zoomLevel": 0,
   "workbench.iconTheme": "vs-minimal",
   "workbench.editor.enablePreview": false,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.panel.defaultLocation": "right"
+  "workbench.panel.defaultLocation": "right",
+  "workbench.colorTheme": "fairyfloss",
 }
